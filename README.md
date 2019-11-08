@@ -1,6 +1,6 @@
 # AsyncPermission
 
-使用链式的方式请求权限，屏蔽掉权限获取的过程和 `onRequestPermissionsResult` 判断。
+基于AndroidX的权限请求库，使用链式的方式请求权限，屏蔽掉权限获取的过程和 `onRequestPermissionsResult` 判断。
 
 ## 判断权限
 
